@@ -1,6 +1,8 @@
+streamlit>=1.30.0
 pandas
 numpy
 matplotlib
 seaborn
 openpyxl
+pillow
 kagglehub
